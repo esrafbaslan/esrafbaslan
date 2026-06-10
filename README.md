@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @esrafbaslan
-- 👀 I’m interested in Product Management
-- 🌱 I’m currently learning GitHub
-- 💞️ I’m looking to collaborate on product development
+- 👀 I’m a Product Management
 - 📫 How to reach me esrahatayaslan@gmail.com
 
 <!---
